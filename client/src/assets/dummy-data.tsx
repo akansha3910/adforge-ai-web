@@ -75,7 +75,7 @@ export const faqData = [
     },
     {
         question: 'Can I cancel any time?',
-        answer: 'Yes - you can cancel from your dashboard. You will retain access through the end of your billing period.'
+        answer: 'Yes - you can cancel from your dashboard. You will retain access through the end of your billing period.We also offer a free trial so you can test the platform before committing to a subscription.'
     },
     {
         question: 'What input formats do you support?',
